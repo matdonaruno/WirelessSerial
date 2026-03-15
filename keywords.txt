@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map for WirelessSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WirelessSerial	KEYWORD1
+DualPrint	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+stop	KEYWORD2
+handle	KEYWORD2
+mirror	KEYWORD2
+unmirror	KEYWORD2
+isMirroring	KEYWORD2
+getDualPrint	KEYWORD2
+clientCount	KEYWORD2
+isRunning	KEYWORD2
+setMaxClients	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WIRELESS_SERIAL_VERSION	LITERAL1
+WIRELESS_SERIAL_DEFAULT_PORT	LITERAL1
+WIRELESS_SERIAL_DEFAULT_MDNS	LITERAL1
